@@ -1,0 +1,2 @@
+//credits to the c00lteam and the original script owners, dark eccentric,c00lfather,c00lcat,c00lcfgg and c00lshark.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CfggC00l/Assyas/main/Assyas.lua.obfuscated.lua", true))()
